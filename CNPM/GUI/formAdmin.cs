@@ -274,17 +274,6 @@ namespace CNPM.GUI
         #endregion
 
         #region [E] Category
-        private void txbSearchCategory_Click(object sender, EventArgs e)
-        {
-            txbSearchCategory.Clear();
-        }
-
-        private void btnSearchCategory_Click(object sender, EventArgs e)
-        {
-            string categoryName = txbSearchCategory.Text;
-            categorySource.DataSource = CategoryDAO.Instance.SearchCategory(categoryName);
-        }
-
         private void btnClearCategory_Click(object sender, EventArgs e)
         {
             txbCategoryID.Clear();
@@ -406,17 +395,6 @@ namespace CNPM.GUI
         #endregion
 
         #region [E] Menu
-        private void txbSearchMenu_Click(object sender, EventArgs e)
-        {
-            txbSearchMenu.Clear();
-        }
-
-        private void btnSearchMenu_Click(object sender, EventArgs e)
-        {
-            string drinksName = txbSearchMenu.Text;
-            menuSource.DataSource = MenuDAO.Instance.SearchMenu(drinksName);
-        }
-
         private void btnAddMenu_Click(object sender, EventArgs e)
         {
             string drinksName = txbDrinkName.Text;
@@ -523,17 +501,6 @@ namespace CNPM.GUI
         #endregion
 
         #region [E] Material
-        private void txbSearchMaterial_Click(object sender, EventArgs e)
-        {
-            txbSearchMaterial.Clear();
-        }
-
-        private void btnSearchMaterial_Click(object sender, EventArgs e)
-        {
-            string materialName = txbSearchMaterial.Text;
-            materialSource.DataSource = MaterialDAO.Instance.SearchMaterial(materialName);
-        }
-
         private void btnClearMaterial_Click(object sender, EventArgs e)
         {
             txbMaterialID.Clear();
@@ -643,17 +610,6 @@ namespace CNPM.GUI
         #endregion
 
         #region [E] Supplier
-        private void txbSearchSupplier_Click(object sender, EventArgs e)
-        {
-            txbSearchSupplier.Clear();
-        }
-
-        private void btnSearchSupplier_Click(object sender, EventArgs e)
-        {
-            string supplierName = txbSearchSupplier.Text;
-            supplierSource.DataSource = SupplierDAO.Instance.SearchSupplier(supplierName);
-        }
-
         private void btnClearSupplier_Click(object sender, EventArgs e)
         {
             txbSupplierID.Clear();
@@ -746,17 +702,6 @@ namespace CNPM.GUI
         #endregion
 
         #region [E] Position
-        private void txbSearchPosition_Click(object sender, EventArgs e)
-        {
-            txbSearchPosition.Clear();
-        }
-
-        private void btnSearchPosition_Click(object sender, EventArgs e)
-        {
-            string positionName = txbSearchPosition.Text;
-            positionSource.DataSource = PositionDAO.Instance.SearchPosition(positionName);
-        }
-
         private void btnClearPosition_Click(object sender, EventArgs e)
         {
             txbPositionID.Clear();
@@ -855,17 +800,6 @@ namespace CNPM.GUI
         #endregion
 
         #region [E] Employees
-        private void txbSearchEmployees_Click(object sender, EventArgs e)
-        {
-            txbSearchEmployees.Clear();
-        }
-
-        private void btnSearchEmployees_Click(object sender, EventArgs e)
-        {
-            string empoyeesName = txbEmployeesName.Text;
-            employeesSource.DataSource = EmployeesDAO.Instance.SearchEmployees(empoyeesName);
-        }
-
         private void btnDeleteEmployees_Click(object sender, EventArgs e)
         {
             string accountName = txbUsername.Text.ToString();

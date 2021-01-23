@@ -43,3 +43,18 @@ C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Debug\CNPM.csproj.Ge
 C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
 C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Debug\CNPM.exe
 C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Debug\CNPM.pdb
+D:\QuanLyTaTua\CNPM\bin\Debug\CNPM.exe.config
+D:\QuanLyTaTua\CNPM\bin\Debug\CNPM.exe
+D:\QuanLyTaTua\CNPM\bin\Debug\CNPM.pdb
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.csprojAssemblyReference.cache
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.GUI.formAdmin.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.GUI.formChangePassword.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.GUI.formLogin.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.GUI.formMain.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.GUI.formNewEmloyees.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.GUI.formProfile.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.Properties.Resources.resources
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.csproj.GenerateResource.cache
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.csproj.CoreCompileInputs.cache
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.exe
+D:\QuanLyTaTua\CNPM\obj\Debug\CNPM.pdb
