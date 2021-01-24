@@ -1,0 +1,15 @@
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\bin\Release\CNPM.exe.config
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\bin\Release\CNPM.exe
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\bin\Release\CNPM.pdb
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.csprojAssemblyReference.cache
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.GUI.formAdmin.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.GUI.formChangePassword.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.GUI.formLogin.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.GUI.formMain.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.GUI.formNewEmloyees.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.GUI.formProfile.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.Properties.Resources.resources
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.csproj.GenerateResource.cache
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.csproj.CoreCompileInputs.cache
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.exe
+C:\Users\Le Cong Minh\OneDrive\Desktop\QuanLyTaTua\CNPM\obj\Release\CNPM.pdb
